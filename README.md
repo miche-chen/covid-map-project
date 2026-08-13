@@ -1,1 +1,1 @@
-# folium-map-demo
+# covid-map-project
